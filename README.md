@@ -17,7 +17,6 @@ I'm a passionate data science enthusiast with a background in civil engineering.
 
 ## 📫 How to Reach Me
 - Email: mayowaaloko@gmail.com 
-- LinkedIn: linkedin.com/in/alokomayowa
 
 ## 🚀 Fun Fact
 I once correlated soil compaction with the number of coffee cups consumed during late-night study sessions. ☕️
